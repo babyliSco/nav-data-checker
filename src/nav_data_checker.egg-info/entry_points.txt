@@ -1,0 +1,2 @@
+[console_scripts]
+nav-data-checker = nav_data_checker.cli:main
